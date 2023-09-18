@@ -18,8 +18,8 @@
 
 ## Screenshots!!
 
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_31 PM](https://githu![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_44 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/b8c12cbc-7909-4560-ab65-cca48ec1d093)
-b.com/muddurthi/FRT_Project/assets/116054501/91255c8e-3464-41da-98b7-bb3e5fa2f0f7)
+![Uploading Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_31 PM.png…]()
+
 ![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_37 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/10ab9c07-0c3e-4f97-849c-ca7152f13e0b)
 ![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_49 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/8e863381-f93d-4ded-9770-af2213c29afc)
 ![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_58 PM](ht![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_40_04 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/a2d2a0ac-62e2-4ca4-a289-e471eae1c38b)
