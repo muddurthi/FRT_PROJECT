@@ -18,7 +18,8 @@
 
 ## Screenshots!!
 
-![Uploading Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_31 PM.png…]()
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_31 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/e0dd977c-9e56-48d8-9ef1-bbb30b17cd6c)
+
 
 ![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_37 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/10ab9c07-0c3e-4f97-849c-ca7152f13e0b)
 ![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_49 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/8e863381-f93d-4ded-9770-af2213c29afc)
