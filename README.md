@@ -1,4 +1,4 @@
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_00 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/069a4534-ffe6-4e12-a601-fdd2d50b4e3c)![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_00 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/162bf319-dba2-4e8f-8e64-7e44bef62cd9)# ✨ Educator ✨
+ ✨ Educator ✨
 
 
 ### This website based on online courses has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
@@ -16,47 +16,62 @@
 - User can know the popular courses.
  
 
-## Screenshots!![Educator -Online Education _ About - Google Chrome 9_18_2023 9_28_19 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/c8bd1107-cd54-4968-8187-2ca622634f88)
-![Educator -Online Education _ About - Google Chrome 9_18_2023 9_28_19 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/4a0992cd-3ca8-4a82-84aa-323c627436c7)
-![Educator -Online Education _ About - Google Chrome 9_18_2023 9_28_08 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/00679df6-8dda-4801-99d2-753d5e43e60f)
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_33 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/aa771c56-4d9b-4182-990a-4004e80c52e5)
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_28 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/535c8ff9-8c18-4a56-a7f7-57a98c60fe80)
-![Educator -Online Education _ About - Google Chrome 9_18_2023 9_28_08 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/53a379d0-462f-4fd2-b9da-edbe45d1e103)
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_33 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/8b1f1c97-f393-45e5-b2b5-790df95fb5c2)
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_21 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/f90e61ae-0eab-4927-ae7b-9cc26fe84019)
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_15 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/d9745793-370c-470d-9d0e-12088d385712)
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_28 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/ce1c6c97-bf2d-4b4f-9e38-c9ee6b01bcdc)
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_06 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/3b87b0fd-c49b-45bf-8f8a-7fa506fedd80)
-[Uploading Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_00 PM.png…]()
+## Screenshots!!
+
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_31 PM](https://githu![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_44 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/b8c12cbc-7909-4560-ab65-cca48ec1d093)
+b.com/muddurthi/FRT_Project/assets/116054501/91255c8e-3464-41da-98b7-bb3e5fa2f0f7)
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_37 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/10ab9c07-0c3e-4f97-849c-ca7152f13e0b)
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_49 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/8e863381-f93d-4ded-9770-af2213c29afc)
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_39_58 PM](ht![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_40_04 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/a2d2a0ac-62e2-4ca4-a289-e471eae1c38b)
+tps://github.com/muddurthi/FRT_Project/assets/116054501/41180660-c6e9-4c9c-afa7-b279b5c11161)
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_40_08 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/07159e96-68ec-47c2-8ee1-c6e6519aaa33)
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_40_16 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/42b91cf5-27cf-4d66-8a2d-ea79700135b6)
+
+### About -
+
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_43_44 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/168d6868-1e2c-470e-aad8-02e8d704476d)
+
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_43_52 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/b64acaf1-1311-4623-897a-144f8508dd32)
 
 
- 
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_44_07 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/0d151073-9b16-42fe-9447-c62499161e75)
 
 
-
-   
-
-### About Us -
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_44_12 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/049552aa-c50b-4c71-9a87-d62ad9554452)
 
 
-
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/9![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_21 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/dadbcb00-4c62-4464-b776-a8713b1bac2b)
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_15 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/27dd3d0b-dfd2-4ded-8f68-1452159a83dd)
-![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_31_06 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/1e78f297-cdc8-4d91-9911-2846e0fae748)
-8517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+![Educator - Online Education_ Home - Google Chrome 9_18_2023 9_44_30 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/2998dbbc-bc5d-4158-bd57-289140d4a102)
 
 
-### Privacy policy -
+### Courses-
+![Educator - Online Education _ Courses - Google Chrome 9_18_2023 9_52_46 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/f939cd69-5bf6-4689-a664-02a1f2e0ee4d)
+
+![Educator - Online Education _ Courses - Google Chrome 9_18_2023 9_52_56 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/7ca8d41b-9f31-4014-b03c-51249cf8d087)
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+![Educator - Online Education _ Courses - Google Chrome 9_18_2023 9_53_00 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/41f3e7ae-9843-4ea6-95af-48ff837a6d45)
 
 
+![Educator - Online Education _ Courses - Google Chrome 9_18_2023 9_53_08 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/eff5f231-7413-4ece-a2ba-c5c5a0eded6d)
 
-## Tech Stack 💻
+### Contact-
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+![Educator - Online Education _ Courses - Google Chrome 9_18_2023 9_55_30 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/26de1a26-d40b-4e24-a23e-bc4ec6e5634d)
+
+![Uploading Educator - Online Education _ Courses - Google Chrome 9_18_2023 9_55_34 PM.png…]()
+
+![Educator - Online Education _ Courses - Google Chrome 9_18_2023 9_55_44 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/e61059ac-2c24-4d10-b740-8803a0097e37)
+
+![Educator - Online Education _ Courses - Google Chrome 9_18_2023 9_55_52 PM](https://github.com/muddurthi/FRT_Project/assets/116054501/5a80693f-511b-412c-b54a-a5b2dec1fbec)
+
+
+## Azure Technologies used for project
+- Static Web apps
+- Health bot
+## Languages and app technology used 💻
+- Azure
 - HTML
 - CSS
-- Bootstrap
-- JavaScript
+- java script
+
+
