@@ -1,4 +1,4 @@
- ✨ Educator ✨
+# ✨ Educator ✨
 
 
 ### This website based on online courses has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
